@@ -127,4 +127,4 @@ Forecst では、以下の三つのデータを扱うことになりますが、
 
 また、関連する時系列や項目メタデータについても同様にボタンがありますのでここから登録することができます。
 
-![ImportData](/images/step2/importdata.png)
+![ImportData](/images/step2/Importdata.png)
